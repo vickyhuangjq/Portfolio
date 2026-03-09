@@ -1,0 +1,200 @@
+/*
+ * Routed Gothic © 2020 Darren Embry,
+ * https://webonastick.com/fonts/routed-gothic/
+ * with Reserved Font Name Routed Gothic.
+ * This Font Software is licensed under the SIL Open Font License, Version 1.1. 
+ */
+@font-face {
+    font-display: block;
+    font-family: "Routed Gothic";
+    src: url("https://type.cargo.site/files/RoutedGothic.woff") format("woff");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Routed Gothic";
+    src: url("https://type.cargo.site/files/RoutedGothic-HalfItalic.woff") format("woff");
+    font-style: italic;
+    font-weight: normal;
+}
+
+/*
+ * This CSS file has been generated and is served by Cargo Collective Inc
+ * and is authorized to be used on Cargo Collective Inc only.
+ *
+ * This CSS resource incorporates links to font software which is
+ * the valuable copyrighted property of Dinamo Typefaces. You may not
+ * attempt to copy, install, redistribute, convert, modify or reverse
+ * engineer this font software. Please contact Dinamo with any
+ * questions: https://abcdinamo.com/
+ */
+@font-face {
+    font-display: block;
+    font-family: "Diatype Variable";
+    src: url("https://type.cargo.site/files/Cargo-DiatypePlusVariable.woff2") format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 1000;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Diatype Variable";
+    src: url("https://type.cargo.site/files/Cargo-DiatypePlusVariable.woff2") format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 1000;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Diatype Variable";
+    src: url("https://type.cargo.site/files/Cargo-DiatypePlusVariable.woff2") format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 1000;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Diatype Variable";
+    src: url("https://type.cargo.site/files/Cargo-DiatypePlusVariable.woff2") format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 1000;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Diatype Variable";
+    src: url("https://type.cargo.site/files/Cargo-DiatypePlusVariable.woff2") format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 1000;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Diatype Variable";
+    src: url("https://type.cargo.site/files/Cargo-DiatypePlusVariable.woff2") format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 1000;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Diatype Variable";
+    src: url("https://type.cargo.site/files/Cargo-DiatypePlusVariable.woff2") format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 1000;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Diatype Variable";
+    src: url("https://type.cargo.site/files/Cargo-DiatypePlusVariable.woff2") format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 1000;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Diatype Variable";
+    src: url("https://type.cargo.site/files/Cargo-DiatypePlusVariable-Italic.woff2") format("woff2-variations");
+    font-style: italic;
+    font-weight: 200 1000;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Diatype Semi-Mono Variable";
+    src: url("https://type.cargo.site/files/Cargo-DiatypePlusVariable.woff2") format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 700;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Diatype Semi-Mono Variable";
+    src: url("https://type.cargo.site/files/Cargo-DiatypePlusVariable.woff2") format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 700;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Diatype Semi-Mono Variable";
+    src: url("https://type.cargo.site/files/Cargo-DiatypePlusVariable.woff2") format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 700;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Diatype Semi-Mono Variable";
+    src: url("https://type.cargo.site/files/Cargo-DiatypePlusVariable.woff2") format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 700;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Diatype Semi-Mono Variable";
+    src: url("https://type.cargo.site/files/Cargo-DiatypePlusVariable.woff2") format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 700;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Diatype Semi-Mono Variable";
+    src: url("https://type.cargo.site/files/Cargo-DiatypePlusVariable-Italic.woff2") format("woff2-variations");
+    font-style: italic;
+    font-weight: 200 700;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Diatype Mono Variable";
+    src: url("https://type.cargo.site/files/Cargo-DiatypePlusVariable.woff2") format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 700;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Diatype Mono Variable";
+    src: url("https://type.cargo.site/files/Cargo-DiatypePlusVariable.woff2") format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 700;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Diatype Mono Variable";
+    src: url("https://type.cargo.site/files/Cargo-DiatypePlusVariable.woff2") format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 700;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Diatype Mono Variable";
+    src: url("https://type.cargo.site/files/Cargo-DiatypePlusVariable.woff2") format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 700;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Diatype Mono Variable";
+    src: url("https://type.cargo.site/files/Cargo-DiatypePlusVariable.woff2") format("woff2-variations");
+    font-style: normal;
+    font-weight: 200 700;
+}
+
+@font-face {
+    font-display: block;
+    font-family: "Diatype Mono Variable";
+    src: url("https://type.cargo.site/files/Cargo-DiatypePlusVariable-Italic.woff2") format("woff2-variations");
+    font-style: italic;
+    font-weight: 200 700;
+}
+
